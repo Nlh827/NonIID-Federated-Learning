@@ -1,0 +1,39 @@
+# Python
+# Recommended Python version: 3.9
+
+setuptools>=58.0
+
+# Configuration
+PyYAML==6.0
+yacs==0.1.8
+
+# Numerical computation
+numpy==1.22.3
+scipy==1.8.1
+pandas==1.4.2
+
+# Deep learning
+torch==1.12.0
+torchvision==0.13.0
+torchaudio==0.12.0
+
+# Machine learning
+scikit-learn==1.1.2
+
+# Data processing
+h5py==3.7.0
+pillow==9.2.0
+
+# Visualization
+matplotlib==3.5.2
+seaborn==0.11.2
+
+# NLP dependency
+nltk==3.7
+
+# Training monitoring
+wandb==0.13.2
+setproctitle==1.2.3
+
+# Progress bar
+tqdm==4.64.1
